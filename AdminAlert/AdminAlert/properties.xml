@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Properties>
+  <AppMode>FileSearch</AppMode>
+  <Customer>Your Customer</Customer>
+  <AlertDetails>Error Log Search</AlertDetails>
+  <SendTo>recipient@yourdomain.com</SendTo>
+  <MailgunDomain>yourdomain.mailgun.org</MailgunDomain>
+  <MailgunApiKey>key-yourapikey</MailgunApiKey>
+  <FolderPath>C:\logs</FolderPath>
+  <SearchPattern>400</SearchPattern>
+</Properties>
