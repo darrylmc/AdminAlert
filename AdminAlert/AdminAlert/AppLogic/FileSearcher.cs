@@ -40,7 +40,7 @@ namespace AdminAlert.AppLogic
                     }
                 }
 
-                if (!String.IsNullOrEmpty(sr.FilePath))
+                if (sr.Matches.Count > 0)
                 {
                     searchResults.Add(sr);
                 }
