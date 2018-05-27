@@ -1,2 +1,2 @@
 # AdminAlert
-Admin Alerting Utility
+This utility was created to help with some alerting needs during a roll-out. The idea is that this utility will look for or know when certain events or actions take place and send out an email via MailGun to alert the admin team. It is setup right now to support a "File Searcher" method where it will search specfic files or folders and look for patterns in those files.  If a pattern is found, an alert is sent out.
